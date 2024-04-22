@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '56982'
     url: http://www.gutenberg.org/2009/agents/56982
     wikipedia: https://en.wikipedia.org/wiki/Julia_Grant
+covers:
+- cover_type: archival
+  image_path: 73190-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Wittenmyer, Annie
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56981
     wikipedia: https://en.wikipedia.org/wiki/Annie_Turner_Wittenmyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73190#Under-the-guns-b-A-woman-s-reminiscences-of-the-Civil-War
 gutenberg_issued: '2024-03-17'
 gutenberg_type: Text
 identifiers:
